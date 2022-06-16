@@ -1,0 +1,36 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Sent via Postman",
+      "id": 3
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "JavaScript: The Definitive Guide",
+      "author": "Onan Icharia"
+    },
+    {
+      "id": 2,
+      "title": "You don't know JS",
+      "author": "Kyle Simpson"
+    },
+    {
+      "title": "Eloquent JavaScript",
+      "author": "A guy Eloquent in JS",
+      "id": 3
+    }
+  ]
+}
